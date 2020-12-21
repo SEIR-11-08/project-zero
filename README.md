@@ -25,7 +25,7 @@ Your app must:
 * **Render a game in the browser**
 * **Include separate HTML / CSS / JavaScript files**
 * Stick with **KISS (Keep It Simple Stupid)** and **DRY (Don't Repeat Yourself)** principles
-* Use **JavaScript or jQuery** for **DOM manipulation**
+* Use **JavaScript or jQuery** for **DOM manipulation** (no Canvas)
 * **Deploy your game online**, where the rest of the world can access it (we will show you how)
 * Use **semantic markup** for HTML and CSS (adhere to best practices)
 * Be reasonably complex
