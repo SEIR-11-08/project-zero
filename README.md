@@ -73,7 +73,7 @@ Your app must:
 * Create a repo for your tomagotchi pet
 * make a commit after you finish each one of the following
 * Create a Class (JS Class, look at your notes if your forget) for your tomagotchi
-* Instatiate your Tomagotchi
+* Instantiate your Tomagotchi
 * Display a character of your choice on the screen to represent your pet
 * Display the following metrics for your pet: 
  * Hunger (1-10 scale)
