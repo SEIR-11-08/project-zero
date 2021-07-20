@@ -68,9 +68,9 @@ Your app must:
 
 ### Specifications
   
-* Create a repo for your tomagotchi pet
-* Create a Class (JS Class, look at your notes if your forget) for your tomagotchi
-* Instantiate your Tomagotchi
+* Create a repo for your tamagotchi pet
+* Create a Class (JS Class, look at your notes if your forget) for your tamagotchi
+* Instantiate your Tamagotchi
 * Display a character of your choice on the screen to represent your pet
 * Display the following metrics for your pet: 
  * Hunger (1-10 scale)
@@ -87,8 +87,8 @@ Your app must:
 ### Extras
 * Animate your pet across the screen while it's alive. Check out using [jQuery](https://jquery.com/) to animate your pet with jQuery's [animate method](https://api.jquery.com/animate/).
 * Morph your pet at certain ages.
-* Have your tomagotchi give birth to baby tomagotchi...
+* Have your tamagotchi give birth to baby tamagotchi...
 * ...with special powers (extend the class)!
-* Add an `excercise()` method to your tomagotchi, that affects certain properties
+* Add an `excercise()` method to your tamagotchi, that affects certain properties
 * Add anything you can think of... use your imagination!
 
