@@ -25,7 +25,7 @@ Your app must:
 * **Render a game in the browser**
 * **Include separate HTML / CSS / JavaScript files**
 * Stick with **KISS (Keep It Simple Stupid)** and **DRY (Don't Repeat Yourself)** principles
-* Use **JavaScript or jQuery** for **DOM manipulation** (no Canvas)
+* Use **JavaScript** for **DOM manipulation** (no Canvas)
 * Use **semantic markup** for HTML and CSS (adhere to best practices)
 
 ---
@@ -49,7 +49,6 @@ Your app must:
 ### Useful Resources
 
 * **[MDN Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** _(a great reference for all things  Javascript)_
-* **[jQuery Docs](http://api.jquery.com)** _(if you're using jQuery)_
 * **[Github Pages](https://pages.github.com)** _(for hosting your game)_
 * **[Example Readme Files](https://github.com/SEIR-7-06/example-readmes)** _(a great reference for planning materials)_
 
