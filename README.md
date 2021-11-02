@@ -1,7 +1,9 @@
-![GA logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
-# Project #0: The Game
+<h1>
+    <img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png">
+    Project #0: The Game
+</h1>
 
-### Overview
+## Overview
 
 Let's start out with something fun—**a game!**
 
@@ -21,7 +23,7 @@ Your app must:
 * **Wireframe:** - Basically draw out what your game will look like. You can use paper or any wireframe tool you find online.
 * **User Stories** - Wording should center around how a user interacts with your game, for example:
     1.  The user click starts and the level starts
-    2.  When the user hits the ```f key``` a fire ball is catuplulated at a target. 
+    2.  When the user hits the ```f key``` a fire ball is catapulted at a target. 
 * **Render a game in the browser**
 * **Include separate HTML / CSS / JavaScript files**
 * Stick with **KISS (Keep It Simple Stupid)** and **DRY (Don't Repeat Yourself)** principles
@@ -67,8 +69,8 @@ Your app must:
 
 ### Specifications
   
-* Create a repo for your tamagotchi pet
-* Create a Class (JS Class, look at your notes if your forget) for your tamagotchi
+* Create a repo for your Tamagotchi pet
+* Create a Class (JS Class, look at your notes if your forget) for your Tamagotchi
 * Instantiate your Tamagotchi
 * Display a character of your choice on the screen to represent your pet
 * Display the following metrics for your pet: 
@@ -86,8 +88,8 @@ Your app must:
 ### Extras
 * Animate your pet across the screen while it's alive. Check out using [jQuery](https://jquery.com/) to animate your pet with jQuery's [animate method](https://api.jquery.com/animate/).
 * Morph your pet at certain ages.
-* Have your tamagotchi give birth to baby tamagotchi...
+* Have your Tamagotchi give birth to baby Tamagotchi...
 * ...with special powers (extend the class)!
-* Add an `excercise()` method to your tamagotchi, that affects certain properties
+* Add an `exercise()` method to your Tamagotchi, that affects certain properties
 * Add anything you can think of... use your imagination!
 
